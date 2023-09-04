@@ -10,8 +10,8 @@ const Pepe = (props) => <h1>{props.lala} buajajaja {props.ahre}</h1>;
 ReactDOM.createRoot(document.getElementById('root')).render(
  <>
    <Contador/>
-   <Pepe lala="LALAL" ahre="ahre"></Pepe>
-   <Pepe lala="ooohh" ahre="viveeee"/>
+   <Pepe lala="laconchadetumadrealboys" ahre="ahre"></Pepe>
+   
    
  </>
 )
