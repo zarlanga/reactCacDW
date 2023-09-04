@@ -11,8 +11,9 @@ const Pepe = (props) => <h1>{props.lala} buajajaja {props.ahre}</h1>;
 
 ReactDOM.createRoot(document.getElementById('root')).render(
  <>
-   <ContadorRob/>
    <GrupoRob/>
+   <hr></hr>
+   <ContadorRob/>
   </>
 )
 /*ReactDOM.createRoot(document.getElementById('root')).render(
