@@ -1,4 +1,4 @@
-import Presentacion from "./components/Presentacion";
+import Presentacion from "./componentesJ/Presentacion";
 // Falta llenar el objeto con los datos reales
 const grupo = {
     nombre: "Grupo 1",

@@ -1,25 +1,3 @@
-/*im76767676767676y
-nani?
-*/
-  
-
-
-
-
-/*
-hola
-
-yyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy47
-  
-
-meeee? esta la mushi en el teclado? XD
-
-
-
-}}}}}}5rtttttttttttttttttttttttttttttttttttttttttttttttttttt5rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrt
-
-dejado aqui como registro historico pero tengo que seguir con esto
-*/
 import React, {useState, useEffect} from 'react';
 
 const Contador = () => {
@@ -68,4 +46,4 @@ const Contador = () => {
   );
 }
 
-export default Contador
+export default Contador;
